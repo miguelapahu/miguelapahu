@@ -10,7 +10,7 @@
 
 ## 🌐 Sobre mí
 
-Profesional apasionado por la analítica de datos, la sostenibilidad y la innovación tecnológica. A lo largo de mi camino, he tenido la oportunidad de explorar diversas áreas y participar en proyectos académicos que me han permitido conectar con personas, ideas y desafíos que han ampliado mi perspectiva del mundo. Disfruto encontrar soluciones creativas, aprender de cada experiencia y asumir nuevos retos con entusiasmo.   
+Profesional apasionado por la ciencia de datos, la sostenibilidad y la innovación tecnológica. A lo largo de mi camino, he tenido la oportunidad de explorar diversas áreas y participar en proyectos académicos que me han permitido conectar con personas, ideas y desafíos que han ampliado mi perspectiva del mundo. Disfruto encontrar soluciones creativas, aprender de cada experiencia y asumir nuevos retos con entusiasmo.   
 
 ---
 
