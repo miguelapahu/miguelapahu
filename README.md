@@ -17,7 +17,7 @@ Profesional apasionado por la ciencia de datos, la sostenibilidad y la innovaci�
 ## 🛠️ Herramientas y Tecnologías
 
 **Lenguajes:** Python, SQL, R        
-**Bibliotecas:** Pandas, Scikit-learn, Matplotlib, PySpark  
+**Bibliotecas:** Pandas, Scikit-learn, Matplotlib      
 **Otras herramientas:** GCP, Excel, Power BI, Tableau
 
 ---
